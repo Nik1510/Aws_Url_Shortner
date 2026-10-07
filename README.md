@@ -5,20 +5,10 @@ A fully serverless URL shortener application built using AWS cloud services incl
 This project demonstrates modern cloud-native backend architecture using a scalable, event-driven, and cost-efficient serverless design.
 
 ---
-
 # 🚀 Live Demo
 
-### Frontend
+Coming Soon 
 
-https://d3461bhuac6sr6.cloudfront.net/
-
-### API Endpoint
-
-```text
-https://d3ozu89ifj.execute-api.us-east-1.amazonaws.com/shorten
-```
-
----
 
 # 📸 Preview
 
@@ -295,14 +285,6 @@ This project is designed to remain within the AWS Free Tier for low traffic usag
 * CloudWatch
 * IAM
 
----
-
-# 👨‍💻 Author
-
-Ganesh Kambli
-
-Final Year Computer Engineering Student
-Interested in Backend Development, Cloud Computing, Cybersecurity, and AWS Cloud Engineering
 
 ---
 
